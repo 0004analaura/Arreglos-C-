@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\bin\Debug\Desafio3arreglos.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\bin\Debug\Desafio3arreglos.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\bin\Debug\Desafio3arreglos.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\obj\Debug\Desafio3arreglos.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\obj\Debug\Desafio3arreglos.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\obj\Debug\Desafio3arreglos.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio3arreglos\Desafio3arreglos\obj\Debug\Desafio3arreglos.pdb

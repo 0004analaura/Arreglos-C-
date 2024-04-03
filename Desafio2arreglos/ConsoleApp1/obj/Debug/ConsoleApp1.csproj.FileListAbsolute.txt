@@ -1,0 +1,7 @@
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\georg\Desktop\UNIVERSIDAD\ARREGLOS\Desafio2arreglos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

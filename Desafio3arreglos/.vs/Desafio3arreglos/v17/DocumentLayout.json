@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ARREGLOS\\Desafio3arreglos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B584917-6C6E-4DEF-9F42-D8583F2775CA}|Desafio3arreglos\\Desafio3arreglos.csproj|c:\\users\\georg\\desktop\\universidad\\arreglos\\desafio3arreglos\\desafio3arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B584917-6C6E-4DEF-9F42-D8583F2775CA}|Desafio3arreglos\\Desafio3arreglos.csproj|solutionrelative:desafio3arreglos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ARREGLOS\\Desafio3arreglos\\Desafio3arreglos\\Program.cs",
+              "RelativeDocumentMoniker": "Desafio3arreglos\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\UNIVERSIDAD\\ARREGLOS\\Desafio3arreglos\\Desafio3arreglos\\Program.cs",
+              "RelativeToolTip": "Desafio3arreglos\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T02:38:41.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
